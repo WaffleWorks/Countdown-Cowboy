@@ -15,7 +15,7 @@ x = room_width / 2
 y = room_height / 2
 image_xscale = 0
 image_yscale = 0
-image_alpha = 3
+image_alpha = 5
 
 play_blip = 0
 

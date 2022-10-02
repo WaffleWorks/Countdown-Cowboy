@@ -38,6 +38,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_662BE9FF","properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"index","path":"objects/obj_bottle/obj_bottle.yy",},"objectId":{"name":"obj_bottle","path":"objects/obj_bottle/obj_bottle.yy",},"value":"4",},
           ],"isDnd":false,"objectId":{"name":"obj_bottle","path":"objects/obj_bottle/obj_bottle.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":240.0,"y":48.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_37AF9D5","properties":[],"isDnd":false,"objectId":{"name":"obj_lmb","path":"objects/obj_lmb/obj_lmb.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":152.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","tilesetId":{"name":"tl_ground","path":"tilesets/tl_ground/tl_ground.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":20,"SerialiseHeight":12,"TileCompressedData":[
 -200,-2147483648,-20,1,-20,2,],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
@@ -68,6 +69,7 @@
     {"name":"inst_7BBB1D6","path":"rooms/Juggle/Juggle.yy",},
     {"name":"inst_21D10DB5","path":"rooms/Juggle/Juggle.yy",},
     {"name":"inst_662BE9FF","path":"rooms/Juggle/Juggle.yy",},
+    {"name":"inst_37AF9D5","path":"rooms/Juggle/Juggle.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

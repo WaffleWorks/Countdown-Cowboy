@@ -4,7 +4,7 @@ global.success = false
 global.fail = false
 play_alarm = false
 play_fail = false
-alarm[0] = 60
+alarm[0] = 90
 
 if room = Menu
 {

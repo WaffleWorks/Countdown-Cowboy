@@ -8,9 +8,9 @@ depth -= 110
 
 jump_remember = 0
 jump_remember_time = 8
-
+/*
 with instance_create_depth(x,y,depth,obj_fade)
 {
 	sprite_index = spr_arrowup
 	alpha = 3.5
-}
+}*/

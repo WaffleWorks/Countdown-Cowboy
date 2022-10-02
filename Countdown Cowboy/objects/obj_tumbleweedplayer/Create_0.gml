@@ -5,6 +5,7 @@ hsp_walk = 2; //walk speed
 vsp_jump = -5; //jump speed
 dead = false
 depth -= 10
+/*
 with instance_create_depth(x,y,depth,obj_fade)
 {
 	sprite_index = spr_arrowleft
@@ -14,5 +15,5 @@ with instance_create_depth(x,y,depth,obj_fade)
 {
 	sprite_index = spr_arrowright
 	alpha = 3.5
-}
+}*/
 reset_image_index = false

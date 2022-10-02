@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_gameover.wav",
-  "duration": 3.692313,
+  "duration": 2.769229,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
