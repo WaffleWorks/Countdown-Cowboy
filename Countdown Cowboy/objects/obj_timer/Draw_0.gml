@@ -1,0 +1,5 @@
+draw_set_color(c_black)
+draw_rectangle(bar_start_x-1,19,room_width-bar_start_x+1,29,false)
+draw_healthbar(bar_start_x+8,20,room_width-bar_start_x,28,my_time*10,make_color_rgb(34,32,52),make_color_rgb(106,190,48),make_color_rgb(106,190,48),0,true,true)
+draw_set_color(c_white)
+draw_sprite(spr_stopwatch,0,bar_start_x,24)

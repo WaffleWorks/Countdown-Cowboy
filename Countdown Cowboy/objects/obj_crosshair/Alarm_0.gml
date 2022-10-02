@@ -1,0 +1,2 @@
+shootable = true
+light = true

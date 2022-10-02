@@ -1,0 +1,1 @@
+shootable = true
